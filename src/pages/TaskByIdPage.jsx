@@ -1,4 +1,4 @@
-import { TaskItem } from "../components/TaskItem";
+import { TaskItem } from "../components/02-hooks/TaskItem";
 import { useTask } from "../hooks/useTask";
 
 export const TaskByIdPage = () => {

@@ -1,4 +1,4 @@
-import { Counter } from "../components/Counter";
+import { Counter } from "../components/02-hooks/Counter";
 
 export const HomePage = () => {
   return (

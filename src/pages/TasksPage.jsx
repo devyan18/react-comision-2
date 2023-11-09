@@ -1,4 +1,4 @@
-import { TaskItem } from "../components/TaskItem";
+import { TaskItem } from "../components/02-hooks/TaskItem";
 import { useState, useEffect } from "react";
 
 export const TasksPage = () => {
