@@ -1,8 +1,9 @@
-import { Test } from "../components/Test"
+import { Counter } from "../components/Counter";
+
 export const HomePage = () => {
   return (
-    <div>
-      <Test />
+    <div className="dark-bg">
+      <Counter />
     </div>
-  )
-}
+  );
+};
